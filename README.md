@@ -1,4 +1,4 @@
-# Git Basics Lab
+git push -u origin master# Git Basics Lab
 
 ## Learning Goals
 
